@@ -1,4 +1,4 @@
-# 📎 Clippy AI Agent - Kirowween Hackathon 2024
+# 📎 Clippy AI Agent - Kirowween Hackathon 2025
 
 > **Bringing back the nostalgia with modern AI!** A Windows 98-styled AI assistant that actually helps you be productive.
 
